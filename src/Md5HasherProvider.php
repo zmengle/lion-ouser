@@ -1,9 +1,8 @@
 <?php
 
-namespace App\Providers;
+namespace Lion\Ouser;
 
 use Illuminate\Support\ServiceProvider;
-use Lion\Ouser\Md5Hasher;
 
 class Md5HasherProvider extends ServiceProvider
 {
