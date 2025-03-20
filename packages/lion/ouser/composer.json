@@ -1,0 +1,16 @@
+{
+    "name": "lionzhang/ouser",
+    "description": "get user info",
+    "autoload": {
+        "psr-4": {
+            "Lionzhang\\Ouser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lionzhang",
+            "email": "lionzhang@xiaoe-tech.com"
+        }
+    ],
+    "require": {}
+}
