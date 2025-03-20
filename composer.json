@@ -1,9 +1,8 @@
 {
-    "name": "lion/ouser",
-    "description": "get user info",
+    "name": "lionzhang/ouser",
     "autoload": {
         "psr-4": {
-            "Lion\\Ouser\\": "src/"
+            "Lionzhang\\Ouser\\": "src/"
         }
     },
     "authors": [

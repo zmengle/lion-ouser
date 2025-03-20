@@ -1,6 +1,6 @@
 <?php
 
-namespace Lion\Ouser;
+namespace Lionzhang\Ouser;
 
 class Md5Hasher
 {

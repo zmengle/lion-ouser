@@ -1,6 +1,6 @@
 <?php
 
-namespace Lion\Ouser;
+namespace Lionzhang\Ouser;
 
 use Illuminate\Support\ServiceProvider;
 
